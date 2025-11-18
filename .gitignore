@@ -1,0 +1,14 @@
+.env
+*-secret.yaml
+mysql/mysql-secret.yaml
+wordpress/wordpress-secret.yaml
+secrets/
+
+# Kubernetes
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
